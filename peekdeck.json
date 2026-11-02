@@ -1,0 +1,16 @@
+{
+    "id": "sneakpeek",
+    "name": "SneakPeek",
+    "display_name": "Sneak Peek",
+    "author": [
+        "lulu"
+    ],
+    "description": "Display the next card from the deck.",
+    "prefix": "sneakpeek",
+    "main_file": "main.lua",
+    "version": "0.1.0",
+    "dependencies": [
+        "Steamodded",
+        "Lovely (>=0.6)"
+    ]
+}
