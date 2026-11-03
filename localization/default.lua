@@ -13,5 +13,11 @@ return {
                 },
             },
         },
+        Voucher = {
+            v_sneakpeek_sneakpeek = {
+                name = 'Sneak Peek',
+                text = { 'Display the {C:attention}next{} card from the deck.' },
+            }
+        },
     },
 }
